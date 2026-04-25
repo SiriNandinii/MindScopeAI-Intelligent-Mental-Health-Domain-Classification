@@ -188,7 +188,7 @@ This project demonstrates the effectiveness of transformer-based NLP models in c
 ## 👩‍💻 Authors  
 
 - Siri Nandini A  
-- Pranathi B  
+- Pranathi Bandi  
 - Geetha A  
 
 ---
