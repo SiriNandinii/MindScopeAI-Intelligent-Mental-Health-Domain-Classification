@@ -185,6 +185,12 @@ This project demonstrates the effectiveness of transformer-based NLP models in c
 
 ---
 
+## 🙏 Acknowledgment  
+
+We would like to express our sincere gratitude to **Mr. Panigrahi Srikanth** for his valuable guidance, support, and mentorship throughout the development of this project. His insights and encouragement played a crucial role in shaping the direction and success of *MindScopeAI*.
+
+---
+
 ## 👩‍💻 Authors  
 
 - Siri Nandini A  
